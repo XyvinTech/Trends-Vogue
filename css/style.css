@@ -39828,3 +39828,16 @@ a.pswp__share--download:hover {
 	cursor: grabbing;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+.box1{
+	border:1px rgb(180, 172, 172) solid; 
+	border-radius: 5px;
+}
+
+@media screen and (max-width: 767px) {
+	/* Apply styles only when the screen width is 767 pixels or less (typical for tablets and mobiles) */
+	.box1 {
+	  padding: 10px; /* Adjust the value according to your design */
+	}
+  }
